@@ -8,7 +8,7 @@ Rules-Requires-Root: no
 Standards-Version: 4.5.0
 Vcs-Browser: https://salsa.debian.org/glibc-team/libnss-nis
 Vcs-Git: https://salsa.debian.org/glibc-team/libnss-nis.git
-Homepage: https://github.com/thkukuk/libnss-nis
+Homepage: https://github.com/thkukuk/libnss_nis
 
 Package: libnss-nis
 Architecture: any
