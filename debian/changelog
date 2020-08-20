@@ -1,7 +1,7 @@
-libnss-nis (3.1-1) UNRELEASED; urgency=low
+libnss-nis (3.1-1) experimental; urgency=low
 
   * Initial Release (closes: bug#968619).
   * libnss-nis is not installable due to the conflicts with libc6, this is
     done on purpose as it requires a synchronized upload with glibc.
 
- -- Aurelien Jarno <aurel32@debian.org>  Tue, 18 Aug 2020 19:15:57 +0200
+ -- Aurelien Jarno <aurel32@debian.org>  Thu, 20 Aug 2020 19:13:52 +0200
