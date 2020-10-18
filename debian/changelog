@@ -1,8 +1,8 @@
-libnss-nis (3.1-4) UNRELEASED; urgency=medium
+libnss-nis (3.1-4) unstable; urgency=medium
 
   * Add a build-depends on libnsl-dev.
 
- -- Aurelien Jarno <aurel32@debian.org>  Sun, 18 Oct 2020 10:43:13 +0200
+ -- Aurelien Jarno <aurel32@debian.org>  Sun, 18 Oct 2020 10:48:47 +0200
 
 libnss-nis (3.1-3) unstable; urgency=medium
 
